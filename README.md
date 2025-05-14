@@ -3,6 +3,8 @@
 This project scrapes **zone-wise and region-wise storage data** from the [Food Corporation of India (FCI)](https://fci.gov.in/) official 
 website using **Selenium** and **BeautifulSoup**, then saves the output to a CSV file for further analysis.
 
+![Image](https://github.com/user-attachments/assets/6e36b420-204c-433e-8b90-7a4bfb5fda5a)
+
 ---
 
 ## ⚙️ How It Works
@@ -14,6 +16,7 @@ website using **Selenium** and **BeautifulSoup**, then saves the output to a CSV
 5. **Store in DataFrame:** Appends all collected data into a single pandas DataFrame.
 6. **Export to CSV:** Saves the final result to a file named `zone_region_data.csv`.
 
+![Image](https://github.com/user-attachments/assets/0f01b61e-c813-41c4-9189-a682aab9d11b)
 ---
 
 # 📊 Sample Output (CSV Structure)

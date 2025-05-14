@@ -107,6 +107,18 @@ df = pd.DataFrame(all_data)
 df.to_csv("zone_region_data.csv", index=False)
 print("✅ Data saved to zone_region_data.csv")
 ```
+---
+
+# Conclusion
+1. Demonstrated automation and data extraction
+2. Delivered clean, structured government data
+3. Ready for further analysis and reporting
+
+ ---
+
+ # Technology Used
+ * Python with Selenium + Beautiful Soup
+
 
 [Presentation.pdf](https://github.com/user-attachments/files/20204138/Presentation.pdf)
 

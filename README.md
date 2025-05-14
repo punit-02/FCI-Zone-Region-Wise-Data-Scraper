@@ -106,7 +106,7 @@ for zone_name, region_name in zone_region_pairs:
 df = pd.DataFrame(all_data)
 df.to_csv("zone_region_data.csv", index=False)
 print("✅ Data saved to zone_region_data.csv")
+```
 
----
-
+[Presentation.pdf](https://github.com/user-attachments/files/20204138/Presentation.pdf)
 
